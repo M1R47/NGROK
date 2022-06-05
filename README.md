@@ -5,6 +5,8 @@ Instalador de ngrok para cualquier versión
 
 pkg install git -y
 
+git clone https://github.com/M1R47-T3RMUX/INSTALADO-DE-NGROK
+
 pkf install wget -y
 
 pkg install baah
